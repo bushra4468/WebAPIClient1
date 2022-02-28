@@ -1,0 +1,5 @@
+/Users/bushrahussain/Downloads/api/WebAPIClient/obj/Debug/net6.0/WebAPIClient.csproj.AssemblyReference.cache
+/Users/bushrahussain/Downloads/api/WebAPIClient/obj/Debug/net6.0/WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bushrahussain/Downloads/api/WebAPIClient/obj/Debug/net6.0/WebAPIClient.AssemblyInfoInputs.cache
+/Users/bushrahussain/Downloads/api/WebAPIClient/obj/Debug/net6.0/WebAPIClient.AssemblyInfo.cs
+/Users/bushrahussain/Downloads/api/WebAPIClient/obj/Debug/net6.0/WebAPIClient.csproj.CoreCompileInputs.cache
